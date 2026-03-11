@@ -1,0 +1,59 @@
+Новое	Расшифровка (рус.)			Ориг	Расшифровка (англ.)
+
+ОС	Очки строительства			BP	Build Points
+ИО	Исследовательские Очки			RP	Research Points
+ГЕ	Грузовые Единицы			CP	Cargo Points
+ЗИП	Запасные Инженерные Припасы		MSP	Maintenance Supplies
+ТН	Транс-Ньютоновский			TN	Trans-Newtonian
+БП	Боеприпасы				—	Ordnance
+РК	Размер Корабля				HS	Hull Space
+ПРЧ	Прочность				HTK	Hits To Kill
+ШТХ	Шахта					—	Mine
+АШ	Автоматическая Шахта			AM	Automated Mine
+НПЗ	Нефтеперерабатывающий Завод		—	Fuel Refinery
+ДКС	Станция Дальнего Космического Слежения	DSTS	Deep Space Tracking Station
+ИР	Исследовательская Работа		R&D	Research and Development
+ОНП	Очки наземной поддержки			GSP	Ground Supply Point
+ЗПЗ 	Значение планетарной защиты		PPV	Planetary Protection Value
+
+
+			
+УО	Управление Огнём			FC	Fire Control
+СВББ	Система вооружения ближнего боя		CIWS	Close-In Weapon System
+ПКО	Планетарная Космическая Оборона		STO	Surface-To-Orbit
+ПРО	Противоракетная Оборона			AMM	Anti-missile
+РЭБ	Радиоэлектронная Борьба			EW	Electronic Warfare / ECM	Electronic Countermeasures
+РЭП	Средства Радиоэлектронного Прот-я	ECCM	 Electronic Counter-Countermeasures
+РТР	Радиотехническая Разведка		ELINT	Electronic Intelligence
+Взр	Шанс Взрыва				Exp	Explosion Chance
+ВЫСТР	Выстрелы				—	Shots
+ПБ	Пробивная Способность			AP	Armour Piercing
+ДНР	Дальность наведения ракет		MCR	Missile Control Range
+ССС	Скорострельность стрельбы		ROF	Rate of Fire
+СО	Скорость отслеживания			TS	Tracking Speed
+АСН	Активное самонаведение			ATG	Active Terminal Guidance
+ОЗ	Очки здоровья				HP	Hit Point
+БЧ	Боевая часть				WH 	Warhead
+РЗМ	Размер корабля				TCS	Target Cross Section
+ЕЧО	Ежегодная частота отказов		AFR 	Annual Failure Rate
+ВЧО	Возрастающая частота отказов		IFR	Incremental Failure Rat
+ТС	Термальная сигнатура			TH
+ЭМ	Электро-Магнитная сигнатура		EM
+ККП 	Коэффициент контроля повреждений	DCR	Damage Control Rating
+КОП	Код оценки повреждений			DAC	Damage Assessment Code
+Э-КОП	Электронный Код оценки повреждений	E-DAC	Electronic Damage Assessment Code
+
+Мостики:
+МСТ	Основной мостик				BRG	Bridge
+ВСП	Вспомогательный пост управления		AUX	Auxiliary
+ИНЖ	Инженерный мостик			ENG	
+БИЦ	Боевой информационный центр		CIC	Combat Information Center
+УЧН	Мостик научного специалиста
+ФЛГ	Флагманский мостик			FLG	Flag Bridge
+ГПК	Главный полётный контроль		PFC	Primary Flight Control
+ДИП 	Дипломатический мостик			DIP	Diplomacy Module
+
+			
+ЕМЧ	Топлива на Единицу Мощности в Час	FH	Fuel per EPH	Fuel per Engine Power Hour
+ТПР	Точка Прыжка 				JP	Jump Point 
+ТП	Традиционная Промышленность		CI	Conventional Industries
