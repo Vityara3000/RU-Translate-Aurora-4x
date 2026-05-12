@@ -1,25 +1,25 @@
 Новое	Расшифровка (рус.)			Ориг	Расшифровка (англ.)
 
-ОС	Очки строительства			BP	Build Points
-ИО	Исследовательские Очки			RP	Research Points
-ГЕ	Грузовые Единицы			CP	Cargo Points
-ЗИП	Запасные Инженерные Припасы		MSP	Maintenance Supplies
-ТН	Транс-Ньютоновский			TN	Trans-Newtonian
-БП	Боеприпасы				—	Ordnance
-РК	Размер Корпуса				HS	Hull Space
-л/ЕМЧ	литров/Единица Мощности в Час		l/EPH	Litres per Engine Power Hour
-ПРЧ	Прочность				HTK	Hits To Kill
-ШТХ	Шахта					—	Mine
-АШ	Автоматическая Шахта			AM	Automated Mine
-НПЗ	Нефтеперерабатывающий Завод		—	Fuel Refinery
+ОС	Очки строительства					BP	Build Points
+ИО	Исследовательские Очки				RP	Research Points
+ГЕ	Грузовые Единицы					CP	Cargo Points
+ЗИП	Запасные Инженерные Припасы			MSP	Maintenance Supplies
+ТН	Транс-Ньютоновский					TN	Trans-Newtonian
+БП	Боеприпасы							—	Ordnance
+РК	Размер Корпуса						HS	Hull Space
+л/ЕМЧ	литров/Единица Мощности в Час	l/EPH	Litres per Engine Power Hour
+ПРЧ	Прочность							HTK	Hits To Kill
+ШТХ	Шахта									—	Mine
+АШ	Автоматическая Шахта				AM	Automated Mine
+НПЗ	Нефтеперерабатывающий Завод			—	Fuel Refinery
 ДКС	Станция Дальнего Космического Слежения	DSTS	Deep Space Tracking Station
-ИР	Исследовательская Работа		R&D	Research and Development
-ОНП	Очки наземной поддержки			GSP	Ground Supply Point
+ИР	Исследовательская Работа			R&D	Research and Development
+ОНП	Очки наземной поддержки				GSP	Ground Supply Point
 ЗПЗ 	Значение планетарной защиты		PPV	Planetary Protection Value
-ОПР	Очки прыжковой разведки			JSP	Jump Survey Points
-ЦК	Цена колонии				CC	Colony Cost
-ОД	Орбитальная добыча			OM 	Orbital mining
-
+ОПР	Очки прыжковой разведки				JSP	Jump Survey Points
+ЦК	Цена колонии						CC	Colony Cost
+ОД	Орбитальная добыча					OM 	Orbital mining
+	
 
 			
 УО	Управление Огнём						FC	Fire Control
